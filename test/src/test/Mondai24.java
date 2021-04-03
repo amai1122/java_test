@@ -22,7 +22,6 @@ public class Mondai24 {
 			System.out.println("年齢:"+bean.getAge());
 		}
 
-
 	}
 
 }
